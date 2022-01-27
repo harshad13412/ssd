@@ -22,10 +22,10 @@ function preload(){
   mainRacerImg1 = loadAnimation("1.png","2.png","3.png","4.png");
   mainRacerImg2= loadAnimation("mainPlayer3.png");
   
-  oppPink1Img = loadAnimation("hhg.png");
+  oppPink1Img = loadAnimation("hhg.PNG");
   oppPink2Img = loadAnimation("opponent3.png");
   
-  oppYellow1Img = loadAnimation("opp.png");
+  oppYellow1Img = loadAnimation("opp.PNG");
   oppYellow2Img = loadAnimation("opponent6.png");
   
   
